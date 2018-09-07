@@ -1,0 +1,5 @@
+<design:component>
+    <design:attribute name="header" />
+    <design:attribute name="accountFieldName" />
+    <design:attribute name="fieldSetName" />
+</design:component>

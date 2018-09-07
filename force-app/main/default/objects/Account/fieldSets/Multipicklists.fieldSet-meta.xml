@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FieldSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Multipicklists</fullName>
+    <description>used in the Lightning Component MultipicklistValuesIntoTable</description>
+    <displayedFields>
+        <field>Hobbies__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>Interested_Country__c</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <label>Multipicklists</label>
+</FieldSet>
